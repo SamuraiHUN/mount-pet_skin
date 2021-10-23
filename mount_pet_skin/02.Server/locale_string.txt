@@ -1,0 +1,5 @@
+"You need wait before do that.";
+"You need wait before do that.";
+
+"You cant change skin when you are mounted.";
+"You cant change skin when you are mounted.";

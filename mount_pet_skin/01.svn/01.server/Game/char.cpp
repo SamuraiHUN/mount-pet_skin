@@ -72,10 +72,6 @@ void CHARACTER::CheckPet()
 	
 	if(petSystem->CountSummoned() == 0)
 		petSystem->Summon(mobVnum, petItem, false);
-	else {
-		ReloadPetBonus(petItem);
-		ReloadPetRingBonus();
-	}
 }
 
 //Pet Skin Related
